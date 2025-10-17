@@ -16,7 +16,8 @@ Each lab is designed to help learners and professionals build a solid understand
 - VLANs and Inter-VLAN Routing  
 - Static and Dynamic Routing (RIP, OSPF, EIGRP)  
 - Subnetting and IP Address Planning  
-- Layer 2 / Layer 3 Switching Concepts  
+- Layer 2 / Layer 3 Switching Concepts
+- SSH , Telnet Implementation
 - DHCP and DNS Services  
 - Network Design Models (Access–Distribution–Core, Collapsed Core)  
 - Basic Network Security (ACLs, Port Security)  
