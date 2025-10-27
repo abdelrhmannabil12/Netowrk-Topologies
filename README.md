@@ -54,8 +54,12 @@ Network & OT Cybersecurity Engineer
 ## 💡 Future Additions
 - Industrial (OT) network segmentation topologies  
 - Firewall and security zone integration (Cisco FTD/FMC)  
-- MPLS, VPN, and remote access scenarios  
 
 ---
+
+### 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrhamn-nabil-682a3b223/)  
+- 📧 abdelrhman12@gmail.com *(optional)*  
 
 ⭐ **If you find this repository helpful, feel free to star it and share with others learning networking!**
