@@ -60,6 +60,6 @@ Network & OT Cybersecurity Engineer
 ### 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelrhamn-nabil-682a3b223/)  
-- 📧 abdelrhman12@gmail.com *(optional)*  
+- 📧 abdelrhmannabil12@gmail.com  
 
 ⭐ **If you find this repository helpful, feel free to star it and share with others learning networking!**
